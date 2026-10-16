@@ -216,7 +216,7 @@ main {
       rgba(3, 8, 23, .38) 52%,
       rgba(3, 8, 23, .05) 100%
     ),
-    url("assets/hero-city.jpg") center 53% / cover no-repeat;
+    url("images/hero-city.jpg") center 53% / cover no-repeat;
   filter: saturate(1.12);
 }
 
@@ -861,7 +861,7 @@ footer b {
   .hero-art {
     background:
       linear-gradient(90deg, #030817 0%, rgba(3, 8, 23, .9) 35%, rgba(3, 8, 23, .3) 100%),
-      url("assets/hero-city.jpg") center / cover;
+      url("images/hero-city.jpg") center / cover;
   }
 
   .hero-content {
