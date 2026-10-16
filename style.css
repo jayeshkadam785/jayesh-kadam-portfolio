@@ -919,7 +919,7 @@ footer b {
   .hero-art {
     background:
       linear-gradient(90deg, rgba(3, 8, 23, .96), rgba(3, 8, 23, .65)),
-      url("assets/hero-city.jpg") 60% center / cover;
+      url("images/hero-city.jpg") 60% center / cover;
   }
 
   .hero h1 {
